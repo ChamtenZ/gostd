@@ -6,6 +6,7 @@ require (
 	github.com/gin-gonic/contrib v0.0.0-20201101042839-6a891bf89f19
 	github.com/gin-gonic/gin v1.7.7
 	github.com/jinzhu/gorm v1.9.16
+	github.com/tedcy/fdfs_client v0.0.0-20200106031142-21a04994525a
 )
 
 require (
